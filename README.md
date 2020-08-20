@@ -1,5 +1,5 @@
 # question-game-api
-Simple app to create, edit, store and access questions and answers. The project will be further used for while studying React (creating a front-end website to create, edit, delete quizzes, and play them (counting points).
+Simple app to create, edit, store and access questions and answers. The project will be further used for while studying React (creating a front-end website to create, edit, delete quizzes, and play them (counting points)).
 
   - MongoDB
   - REST api
